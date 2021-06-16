@@ -3,8 +3,8 @@ Today, we live in an information, communication, and technology era. Information
 
 ## **Android Application Demo**
 
-![alt text]()
+![alt text](https://github.com/Sameer-Karoshi/Multilingual-Information-Retrieval-Chatbot/blob/master/android-demo.gif)
 
 ## **Website Demo**
 
-![alt text]()
+![alt text](https://github.com/Sameer-Karoshi/Multilingual-Information-Retrieval-Chatbot/blob/master/website-demo.gif)
