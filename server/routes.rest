@@ -1,0 +1,59 @@
+GET  http://35.188.169.72:5000 HTTP/1.1
+content-type: application/json
+
+### science Bot
+
+POST  http://35.188.169.72:5000/ssc_science HTTP/1.1
+content-type: application/json
+
+{
+    "query": "why does human beings have important place in environment",
+    "out_lang": "same"
+}
+
+### history Bot
+
+POST  http://35.188.169.72:5000/ssc_history HTTP/1.1
+content-type: application/json
+
+{
+    "query": "what is art of painting",
+    "out_lang": "en"
+}
+
+# ---------------------------------------------------------------------
+
+### Local
+
+GET  http://127.0.0.1:5000/  HTTP/1.1
+content-type: application/json
+
+### vishwakosh Bot
+
+POST  http://127.0.0.1:5000/vishwakosh HTTP/1.1
+content-type: application/json
+
+{
+    "query": "who is virat kohli",
+    "out_lang": "en"
+}
+
+### science Bot
+
+POST  http://127.0.0.1:5000/ssc_science HTTP/1.1
+content-type: application/json
+
+{
+    "query": "why does human beings have important place in environment",
+    "out_lang": "en"
+}
+
+### history Bot
+
+POST  http://127.0.0.1:5000/ssc_history HTTP/1.1
+content-type: application/json
+
+{
+    "query": "what is art of painting",
+    "out_lang": "en"
+}
